@@ -69,13 +69,13 @@
 
 ## Tech Stack
 
-[![React][React-shield]][React-url]
-[![Vite][Vite-shield]][Vite-url]
-[![GSAP][GSAP-shield]][GSAP-url]
-[![TailwindCSS][TailwindCSS-shield]][TailwindCSS-url]
-**Post-Processing**: [PostCSS](https://postcss.org/) + [autoprefixer](https://github.com/postcss/autoprefixer)
-**Icons**: [React Icons](https://react-icons.github.io/react-icons/)
-**Utility Hooks**: [React Use](https://github.com/streamich/react-use)
+- [![React][React-shield]][React-url]
+- [![Vite][Vite-shield]][Vite-url]
+- [![GSAP][GSAP-shield]][GSAP-url]
+- [![TailwindCSS][TailwindCSS-shield]][TailwindCSS-url]
+- **Post-Processing**: [PostCSS](https://postcss.org/) + [autoprefixer](https://github.com/postcss/autoprefixer)
+- **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
+- **Utility Hooks**: [React Use](https://github.com/streamich/react-use)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
