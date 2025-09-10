@@ -148,9 +148,9 @@ The overall design and aesthetic are inspired by the innovative website [zentry.
 
 ### Contact
 
-Lance Carteciano - @ransuhaneda - ransuhaneda@gmail.com
-Project Link: https://github.com/ransuhaneda/react-gsap-acd
-Social Link: https://linktr.ee/ransuhaneda
+- Lance Carteciano - @ransuhaneda - ransuhaneda@gmail.com
+- Link: https://github.com/ransuhaneda/react-gsap-acd
+- Social Link: https://linktr.ee/ransuhaneda
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
